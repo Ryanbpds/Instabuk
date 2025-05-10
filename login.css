@@ -40,22 +40,22 @@ input {
     border-right: none;
 }
 
-a {
+button {
  color: #fff;
- margin-left: 55px;
- margin-bottom: 40px;
+ margin-left: 40px;
+ margin-bottom: 100px;
  margin-top: 80px;
  border:solid 2px #ec0202;
- padding-left: 200px;
- padding-right: 200px;
+ padding-left: 150px;
+ padding-right: 150px;
  background-color: #ec0202;
  font-size: xx-large;
 padding-bottom: 15px;
-padding-top: 15px;
+padding-top: 5px;
 text-decoration: none;
 }
 
-a:hover {
+button:hover {
     background-color: #5d08cb;
     border: #5d08cb;
     color: #ffffff;
